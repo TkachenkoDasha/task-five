@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğú°÷8ùïî–ï.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ôó’±8 •–ï.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(×¨‹8İÀµ•ï.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ËöÖõúÿÿÿÿ8úÈ¹•ï.
+…
+java:S1130"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(ö”òĞ8æàÀ–ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÖÌ8”†ã•ï.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ş€©¨ùÿÿÿÿ8ßàÄ•ï.
